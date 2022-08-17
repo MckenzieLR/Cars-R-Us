@@ -1,0 +1,21 @@
+.options {
+    flex-basis: 24%;
+    margin: 20px 2rem;
+    border: 1px dashed green;
+    background-color:blanchedalmond;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    width: 250px;
+    align-items: center;
+}
+
+.carOrders {
+    background-color:rgb(211, 244, 240);
+    border: 2px dashed lightskyblue
+}
+
+.firstOptions,
+.secondOptions {
+    display: flex;
+}
